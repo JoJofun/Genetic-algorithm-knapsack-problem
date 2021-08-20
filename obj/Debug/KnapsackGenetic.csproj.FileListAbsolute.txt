@@ -1,0 +1,9 @@
+D:\BACKUPS\REPOS\MNISTFormsold\Genetic-algorithm-knapsack-problem\bin\Debug\KnapsackGenetic.exe.config
+D:\BACKUPS\REPOS\MNISTFormsold\Genetic-algorithm-knapsack-problem\bin\Debug\KnapsackGenetic.exe
+D:\BACKUPS\REPOS\MNISTFormsold\Genetic-algorithm-knapsack-problem\bin\Debug\KnapsackGenetic.pdb
+D:\BACKUPS\REPOS\MNISTFormsold\Genetic-algorithm-knapsack-problem\obj\Debug\KnapsackGenetic.Form1.resources
+D:\BACKUPS\REPOS\MNISTFormsold\Genetic-algorithm-knapsack-problem\obj\Debug\KnapsackGenetic.Properties.Resources.resources
+D:\BACKUPS\REPOS\MNISTFormsold\Genetic-algorithm-knapsack-problem\obj\Debug\KnapsackGenetic.csproj.GenerateResource.cache
+D:\BACKUPS\REPOS\MNISTFormsold\Genetic-algorithm-knapsack-problem\obj\Debug\KnapsackGenetic.csproj.CoreCompileInputs.cache
+D:\BACKUPS\REPOS\MNISTFormsold\Genetic-algorithm-knapsack-problem\obj\Debug\KnapsackGenetic.exe
+D:\BACKUPS\REPOS\MNISTFormsold\Genetic-algorithm-knapsack-problem\obj\Debug\KnapsackGenetic.pdb
